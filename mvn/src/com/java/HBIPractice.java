@@ -6,7 +6,7 @@ public class HBIPractice {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Testjnnlk");
-
+System.out.println("Testjnnlk");
 	}
 
 }
